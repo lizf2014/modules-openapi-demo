@@ -1,0 +1,5 @@
+# Project exclude paths
+/openapi-all/target/
+/openapi-student/target/
+/openapi-teacher/target/
+.idea
